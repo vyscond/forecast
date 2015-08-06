@@ -1,0 +1,17 @@
+{
+    "packages": [
+        "forecast"
+    ],
+    "author": "vyscond",
+    "entry_points": {
+        "console_scripts": [
+            "forecast=forecast:main"
+        ]
+    },
+    "install_requires": ["PyAML"],
+    "author_email": "vyscond@gmail.com",
+    "description": "simple application that automates the lifecycle",
+    "version": "0.1.0",
+    "name": "forecast",
+    "url": "https://github.com/vyscond/forecast"
+}
